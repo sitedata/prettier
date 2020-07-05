@@ -14,7 +14,7 @@
     "codemirror-graphql": "0.6.12",
     "lodash.groupby": "4.6.0",
     "lz-string": "1.4.4",
-    "prop-types": "15.6.1",
+    "prop-types": "15.7.2",
     "react": "16.3.1",
     "react-dom": "16.3.3"
   },
